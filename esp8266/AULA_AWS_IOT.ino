@@ -19,7 +19,6 @@ unsigned long lastMillis = 0;
 unsigned long previousMillis = 0;
 //const long interval = 5000;
  
- 
 WiFiClientSecure secureConnection;
  
 BearSSL::X509List cert(AWS_CERT_CA);
