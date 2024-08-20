@@ -8,3 +8,4 @@ const char WIFI_PASSWORD[] = "PASS";
 int8_t TIME_ZONE = -3; //PARANA(BR)
 
 const char MQTT_HOST[] = "<HOST>";
+
