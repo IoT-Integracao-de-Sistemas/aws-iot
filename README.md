@@ -1,4 +1,4 @@
-# AWS IoT Uteis:
+# AWS IoT:
 
 ### SQL como regra para salvar no banco de dados:
 ```
